@@ -1,0 +1,25 @@
+{
+    "chart_title": "Course Ratings",
+    "data_points": [
+        {
+            "label": "CS 1301",
+            "value": 92
+        },
+        {
+            "label": "MATH 1554",
+            "value": 85
+        },
+        {
+            "label": "APPH 1040",
+            "value": 88
+        },
+        {
+            "label": "HTS 2084",
+            "value": 78
+        },
+        {
+            "label": "ECE 1100",
+            "value": 95
+        }
+    ]
+}
